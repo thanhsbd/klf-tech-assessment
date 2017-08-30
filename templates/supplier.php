@@ -1,0 +1,1 @@
+<p class="text-danger text-center">Supplier page omitted.</p>
